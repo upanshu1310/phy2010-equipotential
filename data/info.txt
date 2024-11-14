@@ -1,0 +1,17 @@
+part a
+- 2 parallel rods (y = -7 cm and y = 7 cm)
+- length of rod = 22 cm (-11 cm to 11 cm)
+- top rod charged at 3 V
+- bottom rod grounded
+- v1 = 1, v2 = 1.5, v3 = 2, v4 = 2.5, v5 = 1.5
+
+part b
+- 2 concentric cylinders (r1 = 2 cm, r2 = 10 cm; center at origin)
+- inner cylinder charged at 3 V
+- outer cylinder grounded 
+- v1 = 0.5, v2 = 1, v3 = 1.5, v4 = 2, v5 = 1.75
+
+part c
+- 2 cylinders (r = 2cm), placed at (7,-8) and (-7,8); both charged at 3V
+- rod placed at an angle to the x-axis; at ground
+- v1 = 0.5, v2 = 1, v3 = 1.5, v4 = 2.5
